@@ -8,7 +8,6 @@ This is a vite template that combines several technologies:
 - [ChakraUI](https://chakra-ui.com/)
 - [Eslint](https://eslint.org/) with [`eslint-config-airbnb`](https://github.com/airbnb/javascript) and [`eslint-config-airbnb-typescript`](https://github.com/iamturns/eslint-config-airbnb-typescript)
 - [Prettier](https://prettier.io/)
-- [Yarn 3](https://yarnpkg.com/) with PnP
 
 ## Installation
 

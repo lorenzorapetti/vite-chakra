@@ -9,6 +9,7 @@
     "lint:fix": "eslint ./src --ext .js,.jsx,.ts,.tsx --fix"
   },
   "dependencies": {
+    "@babel/core": "^7.15.5",
     "@chakra-ui/react": "^1.6.8",
     "@chakra-ui/react-utils": "^1.1.2",
     "@emotion/react": "^11.4.1",

@@ -3,10 +3,9 @@
     "**/.yarn": true,
     "**/.pnp.*": true
   },
-  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "typescript.tsdk": "node_modules/typescript/lib",
   "typescript.enablePromptUseWorkspaceTsdk": true,
   "editor.formatOnSave": true,
-  "eslint.nodePath": ".yarn/sdks",
   "eslint.format.enable": true,
   "eslint.validate": [
     "javascript",
@@ -28,6 +27,5 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
-  "eslint.workingDirectories": ["./src"],
   "prettier.prettierPath": ".yarn/sdks/prettier/index.js"
 }
